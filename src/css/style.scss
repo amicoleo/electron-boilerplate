@@ -1,0 +1,11 @@
+$primary-color: rgb(255, 0, 0);
+$secondary-color: #333;
+
+html, body{
+  background-color: $secondary-color;
+  color: $primary-color;
+  font-family: "Arial Narrow", Arial, sans-serif;
+}
+button{
+  color: $primary-color;
+}
