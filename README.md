@@ -27,3 +27,4 @@ electron-forge start
 - App icon
 - Test on Raspberry-Pi (for kiosk applications, ie using [Benja](https://benja.io/))
 - electron-forge package not working ATM - issues due to npm5
+- Include reference for using node.js style modules 
